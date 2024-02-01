@@ -1,0 +1,11 @@
+export { Dashboard } from './dashboard';
+export { Team } from './team';
+export { Contacts } from './contacts';
+export { Invoices } from './invoices';
+export { Form } from './form';
+export { Calendar } from './calendar';
+export { FAQ } from './faq';
+export { Bar } from './Bar';
+export { Pie } from './Pie';
+export { Line } from './Line';
+export { Geography } from './Geography';
